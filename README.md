@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# e-Commerce Book Store with Favorites Page and Cart
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Create React App project. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The project is a website with bootstrapped cards that contain the descriptions and images of books. Favorites can be chosen by pressing the red heart button. The favorites will appear on the Favorites page. Items from the products page can also be added to the Cart for purchase. Dollar amounts will appear in the cart.<br><br/>
+This project needs to be improved so that items can also be added from favorites to the cart, not just from the products page to the cart.
 
 ## Available Scripts
 
