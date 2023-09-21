@@ -1,5 +1,5 @@
 # e-Commerce Book Store with Favorites Page and Cart
-
+<img src="bookslistimage.png" width='500'/><br>
 This is a Create React App project. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The project is a website with bootstrapped cards that contain the descriptions and images of books. Favorites can be chosen by pressing the white heart button. The favorites will appear on the Favorites page along with red hearts. Favorite items can also be removed from the Favorites page by pressing the red heart button again. Items from the products page can also be added to the Cart for purchase. Dollar amounts will appear in the cart.<br><br/>
 This project needs to be improved so that items can also be added from favorites to the cart, not just from the products page to the cart.
 
